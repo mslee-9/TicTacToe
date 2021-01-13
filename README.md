@@ -1,3 +1,10 @@
+# TicTacToe Game
+
+This project was built using starter code from: https://reactjs.org/tutorial/tutorial.html
+
+Additional feature of determining that the game ended in a draw was added.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
